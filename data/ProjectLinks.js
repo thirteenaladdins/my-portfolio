@@ -1,5 +1,9 @@
 export const ProjectLinks = [
-  { title: "Link one", url: "/", cName: "project-links" },
+  {
+    title: "my-portfolio-jade-psi.vercel.app/",
+    url: "https://my-portfolio-jade-psi.vercel.app/",
+    cName: "project-links",
+  },
   { title: "Link two", url: "/", cName: "project-links" },
   // { title: "Magic Extractor", url: "#", cName: "nav-links" },
   // { title: "Toolkit", url: "#", cName: "nav-links" },
