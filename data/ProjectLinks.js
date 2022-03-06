@@ -1,6 +1,6 @@
 export const ProjectLinks = [
   {
-    title: "my-portfolio-jade-psi.vercel.app/",
+    title: "my-portfolio-jade-psi.vercel.app",
     url: "https://my-portfolio-jade-psi.vercel.app/",
     cName: "project-links",
   },
